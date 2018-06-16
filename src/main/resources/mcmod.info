@@ -1,0 +1,16 @@
+[
+{
+  "modid": "networktest",
+  "name": "Network Test",
+  "description": "A test mod for Networks.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Magic_RB"],
+  "credits": "The Forge and FML guys, for Forge. (gigaherz#9173)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
